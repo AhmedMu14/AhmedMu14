@@ -7,7 +7,7 @@ src="https://cdn.dribbble.com/users/1162077//screenshots/3848914/programmer.gif"
 
 <p align="left"> <a href="https://twitter.com/ahmedmu2004" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedmu2004?logo=twitter&style=for-the-badge" alt="ahmedmu2004" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React js**
+- 🌱 I’m currently learning **Mern stack Development**
 
 - 💬 Ask me about **Frontend developer**
 
